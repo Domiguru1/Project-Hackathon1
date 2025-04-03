@@ -1,0 +1,42 @@
+h1,h2,nav,div,section {
+    text-decoration: none;
+    text-align: center;
+}
+        
+#p-main {
+    color: grey;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+img {
+    border: 5px solid red;
+    border-radius:20px;
+    display: block;
+    margin: auto;
+    width: 40%
+}
+
+.google-link{
+    color: yellowgreen;
+    text-decoration: none;            
+    cursor: pointer;
+    text-align: center;
+             
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+   }
+   .CV {
+    color: blue;
+    text-decoration: underline;            
+    cursor: pointer;
+   }
+   
